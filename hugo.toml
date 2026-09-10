@@ -1,0 +1,5 @@
+baseURL = '' 
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = '@docsy/theme'
+themesDir = 'node_modules'
